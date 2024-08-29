@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shan-A-Rownok Bosunia
 
-**Web Developer | Full-stack Developer | 3D Enthusiast**
+**Web Developer | Full-stack Developer | Tech Enthusiast**
 
 Welcome to my GitHub! I'm a passionate developer with expertise in front-end and back-end technologies, as well as a keen interest in 3D development using **Three.js**. I love exploring new technologies, creating interactive web experiences, and sharing my knowledge with the community.
 
