@@ -30,7 +30,7 @@ Welcome to my GitHub! I'm a passionate developer with expertise in front-end and
 
 ## 🤝 Connect with Me
 - **LinkedIn:** [Rownok Bosunia](https://linkedin.com/in/rownokbosunia)
-- **GitHub:** [Rownok Bosunia](https://github.com/rondevs)
+- **Medium:** [Rownok Bosunia](https://rondevs.medium.com/)
 - **Twitter:** [Rownok Bosunia](https://x.com/@rondevs)
 - **Email:** rownokbosunia.dev@gmail.com
 
