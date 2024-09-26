@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a passionate developer with expertise in front-end and
 - **Other:** Web Design, 3D Modeling
 
 ## 🚀 Featured Projects
-- **ThreeWP Plugin:** [ThreeWP](https://github.com/rondevs/threewp) - A WordPress plugin to integrate Three.js effortlessly into your website. Create custom 3D models with ease and bring your web projects to life.
+- **ThreeWP Plugin:** [ThreeWP](https://wordpress.org/plugins/threewp/) - A WordPress plugin to integrate Three.js effortlessly into your website. Create custom 3D models with ease and bring your web projects to life.
 - **3D Cube Navigation:** A unique scroll navigation feature where a 3D cube rotates and transitions between scenes, with dynamic background and text changes.
 - **Responsive 3D Cube in CSS:** A fully responsive 3D cube that rotates, with each side linking to different pages, complete with dynamic shadow effects.
 
