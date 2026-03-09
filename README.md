@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shan-A-Rownok Bosunia
 
-**Web Developer | Full-stack Developer | Tech Enthusiast**
+**Software Engineer | Full-stack Developer | Tech Enthusiast**
 
 Welcome to my GitHub! I'm a passionate developer with expertise in front-end and back-end technologies, as well as a keen interest in 3D development using **Three.js**. I love exploring new technologies, creating interactive web experiences, and sharing my knowledge with the community.
 
@@ -21,7 +21,9 @@ Welcome to my GitHub! I'm a passionate developer with expertise in front-end and
 
 ## 📊 GitHub Stats
 
-![Rownok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rondevs&show_icons=true&theme=radical)      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rondevs&layout=compact&theme=radical)
+| GitHub Stats | Top Languages |
+|--------------|---------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rondevs&show_icons=true&theme=radical&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rondevs&layout=compact&theme=radical&langs_count=8) |
 
 
 ## 🌱 What I'm Currently Learning
