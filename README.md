@@ -21,9 +21,9 @@ Welcome to my GitHub! I'm a passionate developer with expertise in front-end and
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rondevs&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rondevs&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rondevs&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rondevs&layout=compact&theme=radical&langs_count=8)
 
 
 ## 🌱 What I'm Currently Learning
