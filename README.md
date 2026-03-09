@@ -19,12 +19,6 @@ Welcome to my GitHub! I'm a passionate developer with expertise in front-end and
 - [**An In-Depth Guide to Three.js: Building 3D Models from Scratch**]([https://your-article-link.com](https://medium.com/@rondevs/an-in-depth-guide-to-three-js-building-3d-models-from-scratch-56030b639127)) - A comprehensive guide on how to use Three.js to build 3D models, covering every step and different options.
 - More articles coming soon...
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rondevs&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rondevs&layout=compact&theme=radical&langs_count=8)
-
 
 ## 🌱 What I'm Currently Learning
 - Advanced Three.js techniques to create more immersive 3D experiences.
